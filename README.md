@@ -1,1 +1,1 @@
-# algorithms-coursera
+# Algorithms
